@@ -12,7 +12,6 @@ back in time, to find out how much damage the vulnerabilities would have caused
 if they had been left unchecked. The flag for tonight's challenge has been added
 to old_marvin's database. Good luck!
 
-Hint: try `$help` in a dm to marvin to see which commands are available!
-Another hint: Bot commands in discord.py allow you to pass a string with spaces
+Hint: Bot commands in discord.py allow you to pass a string with spaces
 as an argument when you surround the argument with double quotes.
 ```
